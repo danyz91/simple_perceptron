@@ -1,4 +1,4 @@
-# simple_perceptron
+# Simple Perceptron
 Simple perceptron python implementation for binary operations
 
 ## Requirements
